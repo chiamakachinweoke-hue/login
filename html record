@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+    <title>It does not concern you</title>
+    <style>
+        table, th, td {
+  border: 1px solid red;
+  border-collapse: collapse;
+}
+table{
+    width: 100%;
+}
+
+    </style>
+</head>
+<body>
+   <h1>Hi,am Chinweoke</h1>
+    <p> I can sing,drum and play football
+    My name is CHINWEOKE CHIAMAKA GOODNESS, and I am a student who believes that learning and self improvement are lifelong journeys. I come from a supportive family that has taught me the importance of honesty, kindness, and discipline. These values guide my actions every day. I enjoy reading, especially stories that spark my imagination and help me understand the world better. In school, I work hard and try to stay consistent, even in subjects I find challenging, because I believe perseverance leads to growth. I also love participating in activities that allow me to express my creativity, such as writing or drawing. My goal is to continue developing my skills and become someone who contributes positively to society. Overall, I see myself as a determined and optimistic person who is always ready to learn and improve. </p>
+    <img src="first.jpg" style="width:150px; height:150px; border-radius:50%" alt=""> 
+
+    <ul>
+        <li>first item</li>
+        <li>Second item</li>
+        <li>Third item</li>
+    </ul>
+
+    <table>
+        <tr>
+            <th style="width: 2%;">S/N</th>
+            <th>First Name</th>
+            <th>Last Name</th>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>Amaka</td>
+            <td>Obinna</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>Ifeanyi</td>
+            <td>Okoro</td>
+        </tr>
+    </table>
+</body>
+</html>
